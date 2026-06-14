@@ -1,0 +1,4 @@
+﻿Overview
+
+
+Phantom & Co. - Professional Haunting Simulator is a browser based reverse horror game. The player is playing a ghost hired by a paranormal agency that offers its services in professional haunting. The gameplay experience through a website would allow players to undertake interactive haunting missions, utilize ghost powers to terrify AI controlled humans, interact with the game world, and build up fear levels to complete mission objectives. The website would offer a completely playable gaming experience with visuals and game play being interactive on the website. There would also be a sense of progression with missions and scoring.
