@@ -1,0 +1,11 @@
+﻿Scope of work 
+
+
+What I want:
+
+
+1. Develop a fully playable browser-based game where players control a ghost and complete haunting missions inside different haunted environments.
+2. Implement interactive ghost abilities such as flickering lights, moving objects, opening doors, whispering, and triggering paranormal events to influence AI-controlled human characters.
+3. Include mission objectives, a Fear Meter, scoring system, victory and failure conditions, and basic game progression with increasing difficulty across multiple levels.
+4. Design a responsive game interface with menus, HUD, sound effects, animations, and smooth gameplay optimized for modern web browsers.
+5. Deliver the complete website source code and assets, including one revision round for minor gameplay or interface adjustments
